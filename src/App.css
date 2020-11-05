@@ -1,0 +1,33 @@
+.App {
+  background-color: #252525;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+}
+
+a {
+  height: 21px;
+}
+
+.header {
+  background-color: #474747;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
+
+.Workspace {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+.ToolBar {
+  background-color: #474747;
+  display: flex;
+  flex-direction: column;
+  width: 70px;
+  margin-top: 4px;
+  padding: 5px;
+}
